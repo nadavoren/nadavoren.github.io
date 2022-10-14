@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student studying [Computer Science](https://cse.engin.umich.edu/) and [Mathematics](https://lsa.umich.edu/math/) at the University of Michigan Ann-Arbor. I am interested in the areas of Machine Learning and Computer Security. You can contact me via email at [nadavo@umich.edu](mailto:nadavo@umich.edu) or [nadav@orenmail.com](mailto:nadav@orenmail.com).
+I am a third-year undergraduate student studying [Computer Science](https://cse.engin.umich.edu/) and [Mathematics](https://lsa.umich.edu/math/) at the University of Michigan Ann-Arbor. I am interested in the areas of Machine Learning and Computer Security. You can contact me via email at [nadavo@umich.edu](mailto:nadavo@umich.edu).
 
 I have experience using programming languages such as C++/C, Java, Python, JS/React, SQL, MATLAB, and VBA and with using Linux and Windows development enviornments. Last summer, I did a software intenrnship at [LTN Global Communications](https://ltnglobal.com) and this summer I completed  an internship foccusing on data integration at [Allegis Group](https://allegisgroup.com). For more examples of projects I have done check out the "projects" tab.
 
