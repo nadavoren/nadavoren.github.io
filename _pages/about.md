@@ -14,6 +14,6 @@ I am currently an undegraduate researcher at the [Censored Planet](https://censo
 
 I have experience working with various types of Machine Learning methods in Python and also programming with C/C++ on Linux systems. I am also familiar with several SQL and NoSQL database systems. 
 
-On campus, I am invloved with several student organizations, such as the [Michigan Data Sciecne Team] (https://www.mdst.club/), where I am a project lead, [IEEE-HKN](https://hkn.eecs.umich.edu) (the honor society for Electrical Engineering and Computer Science at UofM) as well as being active in the [University of Michigan Hillel](https://michiganhillel.org) community.
+On campus, I am invloved with several student organizations, such as the [Michigan Data Sciecne Team](https://www.mdst.club/), where I am a project lead, [IEEE-HKN](https://hkn.eecs.umich.edu) (the honor society for Electrical Engineering and Computer Science at UofM) as well as being active in the [University of Michigan Hillel](https://michiganhillel.org) community.
 
 You can view my full resumer here: [resume.pdf](/files/Resume (14).pdf)
